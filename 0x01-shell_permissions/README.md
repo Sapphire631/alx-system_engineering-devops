@@ -6,3 +6,5 @@ empty file
 executes permission
 multiple permission
 access to everyone
+access to others
+john doe
