@@ -5,3 +5,4 @@ new owner
 empty file
 executes permission
 multiple permission
+access to everyone
