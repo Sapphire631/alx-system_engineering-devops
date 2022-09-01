@@ -8,3 +8,5 @@ multiple permission
 access to everyone
 access to others
 john doe
+mirror words
+subsidiaries of directories
