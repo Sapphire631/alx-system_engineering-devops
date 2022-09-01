@@ -12,4 +12,8 @@ mirror words
 subsidiaries of directories
 my directoy with permission
 change of group owner
+change of ownership
+symbolic links
+changing hello to betty
+star wars the movies
 
