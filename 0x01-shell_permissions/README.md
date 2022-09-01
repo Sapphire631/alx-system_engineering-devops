@@ -10,3 +10,6 @@ access to others
 john doe
 mirror words
 subsidiaries of directories
+my directoy with permission
+change of group owner
+
