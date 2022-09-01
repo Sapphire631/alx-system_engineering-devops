@@ -3,3 +3,4 @@ effective username of the current user
 groups current user is part of
 new owner
 empty file
+executes permission
